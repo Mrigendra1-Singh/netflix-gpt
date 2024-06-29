@@ -5,8 +5,17 @@
 - Create React App
 - Configured TailwindCSS
 - Header
+- Routing of App
 - Login form
 - Sign Up Form
+- Form Validation
+- useRef Hook
+- Create SignUp user Account
+- Implement Sign In User Api
+- Created Redux Store with userSlice
+- Implemented Sign Out
+- Update Profile
+- Fetch from TMDB Movies
 
 
 # Features  
